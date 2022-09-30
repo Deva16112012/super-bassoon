@@ -1,0 +1,33 @@
+.h{
+    background-color: whitesmoke;
+    color: red;
+}
+body{
+    font-family:'Special Elite', cursive;
+    background-color: #f5dbda;
+}
+#a button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.h p{
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#e{
+    bottom:0;
+    position: fixed;
+    color: aqua;
+    background-color: magenta;
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px black;
+}
